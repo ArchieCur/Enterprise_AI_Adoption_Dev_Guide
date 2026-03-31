@@ -160,7 +160,7 @@ fails before the first line of code is written.
 
 ## The Companion Tools
 
-**[Enterprise Role Discovery Intake Form](tools/Enterprise_Role_Discovery_Intake.md)**
+**[Enterprise Role Discovery Intake Form](discovery_intake/Enterprise_Role_Discovery_Intake.md)**
 The developer's pre-build interview guide.
 Use it in the first conversation with each
 stakeholder. Surfaces the institutional
