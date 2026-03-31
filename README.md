@@ -43,8 +43,8 @@ jackets for navigating the enterprise.
 
 ## Start Here
 
-**→ [Appendix C: Introduction — The Conversations
-Before You Write a Line of Code](appendix_c_introduction_v02.md)**
+**→ [Introduction: The Conversations
+Before You Write a Line of Code](appendices/appendix_c_introduction_v02.md)**
 
 Read this before the role files. It explains
 what the playbook is, how the roles cluster,
