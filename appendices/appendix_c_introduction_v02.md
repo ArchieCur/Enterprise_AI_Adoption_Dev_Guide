@@ -1,4 +1,4 @@
-# Appendix C: Introduction
+# Introduction
 ## The Conversations Before You Write a Line of Code
 
 ### Enterprise Role Playbook for AI Developers
