@@ -100,11 +100,11 @@ to consider.
 ### Tier 4 — Domain Specific
 *Roles the developer works alongside, not just for*
 
-- [Data Scientist](roles/data_scientist_role_v2.md)
-- [Data Engineer](roles/data_engineer_role.md)
-- [Solution Architect](roles/solution_architect_role_v2.md)
-- [Functional Consultant](roles/functional_consultant_role.md)
-- [Business Analyst](roles/business_analyst_role_v2.md)
+- [Data Scientist](roles/tier4/data_scientist_role_v2.md)
+- [Data Engineer](roles/tier4/data_engineer_role.md)
+- [Solution Architect](roles/tier4/solution_architect_role_v2.md)
+- [Functional Consultant](roles/tier4/functional_consultant_role.md)
+- [Business Analyst](roles/tier4/business_analyst_role_v2.md)
 
 ### Tier 5 — The Human System Around the AI System
 *Roles that deal with what the system actually does
@@ -115,9 +115,9 @@ architecture before deployment; Security Operations
 Analyst monitors what that architecture produces
 after deployment. The distinction is intentional.*
 
-- [Support Engineer](roles/support_engineer_role_v2.md)
-- [Change Manager](roles/change_manager_role_v2.md)
-- [Security Operations Analyst](roles/security_operations_analyst_role_v2.md)
+- [Support Engineer](roles/tier5/support_engineer_role_v2.md)
+- [Change Manager](roles/tier5/change_manager_role_v2.md)
+- [Security Operations Analyst](roles/tier5/security_operations_analyst_role_v2.md)
 
 ---
 
