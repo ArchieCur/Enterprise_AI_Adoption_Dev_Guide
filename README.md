@@ -81,11 +81,11 @@ to consider.
 *Roles that govern the systems developers build*
 
 - [HR](roles/tier2/HR_role.md)
-- [Finance](roles/finance_role.md)
-- [Legal / Compliance](roles/legal_compliance_role_v2.md)
-- [Marketing](roles/marketing_role_v3.md)
-- [IT Administrator](roles/it_administrator_role.md)
-- [Project Manager](roles/project_manager_role_v2.md)
+- [Finance](roles/tier2/finance_role_v2.md)
+- [Legal / Compliance](roles/tier2/legal_compliance_role_v2.md)
+- [Marketing](roles/tier2/marketing_role_v3.md)
+- [IT Administrator](roles/tier2/it_administrator_role_v2.md)
+- [Project Manager](roles/tier2/project_manager_role_v2.md)
 - [Customer Service / Support](roles/tier2/customer_service_support_role.md)
 
 ### Tier 3 — Specialized High-Stakes
