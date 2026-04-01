@@ -127,7 +127,7 @@ Three appendices that make the role files
 actionable.
 
 **[Appendix A: Unified Logging Architecture
-for Enterprise AI Systems](appendices/appendix_a_unified_logging_architecture_v02 (1).md)**
+for Enterprise AI Systems](appendices/appendix_a_unified_logging_architecture_v02.md)**
 Nine stakeholders. One logging schema. The
 document that prevents nine separate logging
 systems, nine separate compliance reviews,
@@ -239,7 +239,7 @@ to use AI products. The model providers do that.
 
 It does not teach enterprise roles what they
 need to know about AI. The companion
-[Role-Based AI Literacy Framework]([https://github.com/ArchieCur/role-based-ai-literacy](https://github.com/ArchieCur/role-based-ai-literacy))
+[Role-Based AI Literacy Framework](https://github.com/ArchieCur/role-based-ai-literacy))
 does that — same roles, flipped perspective.
 
 It does not replace the Discovery Intake Form,
