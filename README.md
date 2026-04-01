@@ -71,11 +71,11 @@ to consider.
 ### Tier 1 — Universal
 *Roles present in every enterprise engagement*
 
-- [Business User](roles/business_user_role.md)
-- [Business Leader](roles/business_leader_role.md)
-- [Business Owner](roles/business_owner_role.md)
-- [Data Analyst](roles/data_analyst_role.md)
-- [Developer](roles/developer_role_v3.md)
+- [Business User](roles/tier1/business_user_role_v2.md)
+- [Business Leader](roles/tier1/Business Leader_role.md)
+- [Business Owner](rolesroles/tier1/Business Owner_role.md)
+- [Data Analyst](roles/tier1/Data Analyst_role.md)
+- [Developer](roles/tier1/developer_role_v3.md)
 
 ### Tier 2 — Common Enterprise
 *Roles that govern the systems developers build*
