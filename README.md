@@ -80,13 +80,13 @@ to consider.
 ### Tier 2 — Common Enterprise
 *Roles that govern the systems developers build*
 
-- [HR](roles/hr_role.md)
+- [HR](roles/tier2/HR_role.md)
 - [Finance](roles/finance_role.md)
 - [Legal / Compliance](roles/legal_compliance_role_v2.md)
 - [Marketing](roles/marketing_role_v3.md)
 - [IT Administrator](roles/it_administrator_role.md)
 - [Project Manager](roles/project_manager_role_v2.md)
-- [Customer Service / Support](roles/customer_service_support_role.md)
+- [Customer Service / Support](roles/tier2/customer_service_support_role.md)
 
 ### Tier 3 — Specialized High-Stakes
 *Roles with approval authority over AI deployment*
