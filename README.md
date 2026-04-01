@@ -239,7 +239,7 @@ to use AI products. The model providers do that.
 
 It does not teach enterprise roles what they
 need to know about AI. The companion
-[Role-Based AI Literacy Framework](https://github.com/ArchieCur/role-based-ai-literacy))
+[Role-Based AI Literacy Framework](https://github.com/ArchieCur/role-based-ai-literacy)
 does that — same roles, flipped perspective.
 
 It does not replace the Discovery Intake Form,
