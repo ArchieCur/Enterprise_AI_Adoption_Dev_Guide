@@ -91,11 +91,11 @@ to consider.
 ### Tier 3 — Specialized High-Stakes
 *Roles with approval authority over AI deployment*
 
-- [Auditor](roles/auditor_role.md)
-- [Risk Practitioner](roles/risk_practitioner_role.md)
-- [Privacy Manager](roles/privacy_manager_role.md)
-- [Security Engineer](roles/security_engineer_role.md)
-- [DevOps Engineer](roles/devops_engineer_role.md)
+- [Auditor](roles/tier3/auditor_role_v3.md)
+- [Risk Practitioner](roles/tier3/risk_practitioner_role_v2.md)
+- [Privacy Manager](roles/tier3/privacy_manager_role_v2.md)
+- [Security Engineer](roles/tier3/security_engineer_role_v3.md)
+- [DevOps Engineer](roles/tier3/devops_engineer_role.md)
 
 ### Tier 4 — Domain Specific
 *Roles the developer works alongside, not just for*
