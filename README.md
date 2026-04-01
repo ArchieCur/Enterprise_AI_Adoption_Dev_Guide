@@ -127,7 +127,7 @@ Three appendices that make the role files
 actionable.
 
 **[Appendix A: Unified Logging Architecture
-for Enterprise AI Systems](appendix_a_unified_logging_architecture_v02.md)**
+for Enterprise AI Systems](appendices/appendix_a_unified_logging_architecture_v02 (1).md)**
 Nine stakeholders. One logging schema. The
 document that prevents nine separate logging
 systems, nine separate compliance reviews,
@@ -137,7 +137,7 @@ the fields, retention tiers, access controls,
 and the compliance constraints that apply to
 every stakeholder without exception.
 
-**[Appendix B: Developer Pre-Engagement Checklist](appendix_b_pre_engagement_checklist_v02.md)**
+**[Appendix B: Developer Pre-Engagement Checklist](appendices/appendix_b_pre_engagement_checklist_v02.md)**
 What to have ready before walking into each
 role's room. Organized as a Universal Pre-
 Engagement Kit — artifacts and answered
@@ -149,7 +149,7 @@ checklist tells you what to know before you
 ask it.
 
 **[Appendix C: Introduction — The Conversations
-Before You Write a Line of Code](appendix_c_introduction_v02.md)**
+Before You Write a Line of Code](appendices/appendix_c_introduction_v02.md)**
 Start here. The framing document for the
 entire library: why it exists, how the roles
 cluster, and the seventeen conversations that
@@ -239,7 +239,7 @@ to use AI products. The model providers do that.
 
 It does not teach enterprise roles what they
 need to know about AI. The companion
-[Role-Based AI Literacy Framework](https://github.com/ArchieCur/role-based-ai-literacy)
+[Role-Based AI Literacy Framework]([https://github.com/ArchieCur/role-based-ai-literacy](https://github.com/ArchieCur/role-based-ai-literacy))
 does that — same roles, flipped perspective.
 
 It does not replace the Discovery Intake Form,
